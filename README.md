@@ -94,12 +94,6 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Happy+coding+💻" />
-</p>
-
-<p align="center">
-  <i>Made with ❤️ by Manoj Kumar</i><br/>
-  <a href="https://github.com/manoj-323">GitHub</a> • 
-  <a href="https://linkedin.com/in/manoj-kumar-r323">LinkedIn</a> • 
-  <a href="mailto:manojkumar07.dev@gmail.com">Email</a>
+<!--   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Happy+coding+💻" /> -->
+  Happy coding!
 </p>
