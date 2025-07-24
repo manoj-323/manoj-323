@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working on: [**QuickPost**](https://github.com/manoj-323/QuickPost)  
+- 🔭 Currently working on: [**aptiGenius**](https://github.com/manoj-323/aptiGenius)  
 - 🌱 Currently learning: **Applied AI**  
 - 🤝 Looking for help with: [**LinUCB (advancing the exploration/exploitation in ani-verse)**](https://github.com/manoj-323/ani-verse)  
 - 👯 Looking to collaborate on: **AI and Django Projects**  
