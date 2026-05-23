@@ -19,7 +19,7 @@
 - 🏗️ Interested in **ETL Pipelines, Workflow Orchestration, and Data Architecture**
 - 📊 Exploring **Medallion Architecture** and **Data Vault 2.0**
 - 💬 Ask me about: `Python`, `SQL`, `Snowflake`, `Airflow`, `GCP`
-- 📫 Reach me at: **manojkumar07.dev@gmail.com**
+- 📫 Reach me at: **manishkashyap.1971990@gmail.com**
 - ⚡ Fun fact: *I still dream of bikes 🏍️*
 
 ---
@@ -75,7 +75,7 @@
 - Implemented automated ingestion and transformation workflows using Apache Airflow and Spark
 
 ### 🎌 Ani-Verse
-- AI-powered anime recommendation system using Django, React, FAISS, and semantic embeddings
+- AI-powered anime recommendation system using Django, React, FAISS, Multi Armed Bandits, and semantic embeddings
 
 ---
 
